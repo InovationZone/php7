@@ -1,0 +1,14 @@
+{
+    "name": "inovationzone/testecomposer",
+    "description": "teste composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "João Paulo",
+            "email": "joaopaulosil@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}

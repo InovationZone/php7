@@ -1,0 +1,13 @@
+{
+    "name": "inovationzone/email",
+    "description": "teste email",
+    "authors": [
+        {
+            "name": "João Paulo",
+            "email": "joaopaulosil@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
